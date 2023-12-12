@@ -9,7 +9,7 @@
 
 # APPS YANG DIGUNAKAN
 ### MONGODB: mongodb+srv://mobile:BYwtwvbqgMBoztTN@cluster0.dlsoucp.mongodb.net/
-### SWEGGER:
+### SWEGGER: https://e-katalog-film.github.io/sweggerbe/
 ### PACKAGE BACKEND:
 
 
