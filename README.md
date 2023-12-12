@@ -11,3 +11,16 @@
 ### MONGODB:
 ### SWEGGER:
 ### PACKAGE BACKEND:
+
+
+# FLOW BUSINES
+![ddd](https://github.com/E-Katalog-Film/.github/assets/94241597/bc327932-677b-4bd6-bd30-93eb1fe95f81)
+
+
+
+# FLOW BACKEND
+
+
+
+
+# FLOW FRONTEND
