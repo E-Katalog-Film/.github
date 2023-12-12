@@ -8,7 +8,7 @@
 
 
 # APPS YANG DIGUNAKAN
-### MONGODB:
+### MONGODB: mongodb+srv://mobile:BYwtwvbqgMBoztTN@cluster0.dlsoucp.mongodb.net/
 ### SWEGGER:
 ### PACKAGE BACKEND:
 
