@@ -1,12 +1,26 @@
-## Hi there 👋
+# Inovasi Digital: Pengembangan Aplikasi E-Katalog Film Interaktif
 
-<!--
+# Team
+## 1.Raul (Leader,Backend)
+## 2.Ibrohim (Mobile,Backend)
+## 3.Salman (Mobile)
+## 4.Akbar (TECHNICAL WRITER)
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# APPS YANG DIGUNAKAN
+### MONGODB:
+### SWEGGER:
+### PACKAGE BACKEND:
+
+
+# FLOW BUSINESS
+![ddd](https://github.com/E-Katalog-Film/.github/assets/94241597/bc327932-677b-4bd6-bd30-93eb1fe95f81)
+
+
+
+# FLOW BACKEND
+
+
+
+
+# FLOW FRONTEND
